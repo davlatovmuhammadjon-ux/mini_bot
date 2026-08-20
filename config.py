@@ -1,5 +1,5 @@
 # ===== НАСТРОЙКИ =====
-BOT_TOKEN = "8786415340:AAFp4llLjb2f08C4kiC64NksAo9ZaRz8lm0"          # токен от @BotFather
+#BOT_TOKEN = "8786415340:AAFp4llLjb2f08C4kiC64NksAo9ZaRz8lm0"          # токен от @BotFather
 
 # Telegram ID владельца бота.
 # 0 = владелец назначится автоматически (им станет первый, кто напишет /start)
